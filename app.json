@@ -8,12 +8,12 @@
   "stack": "container",
   "env": {
     "DATABASE_URL": {
-      "description": "your mongodb database url",
+      "description": "mongodb+srv://DARKSHAN:1000@cluster0.t1wsjlv.mongodb.net/",
       "required": false,
       "value": ""
     },
     "SESSION_ID": {
-      "description": "your session id",
+      "description": "GuruBot~9QAzBFFP",
       "required": true,
       "value": ""
     },
